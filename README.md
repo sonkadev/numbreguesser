@@ -1,1 +1,2 @@
-"# numbreguesser" 
+guess the number
+made in c
