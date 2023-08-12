@@ -12,7 +12,7 @@ int main(){
     char g[1];
     printf("gondoltam egy random szamra 1 es 50 kozott\n");
     srand(time(NULL));
-    int r = rand() % 49 + 1; //csinál egy r nevű random változót 1 és 50 között
+    int r = rand() % 49 + 1; 
     
     while(1){
     gets(g);
@@ -31,9 +31,7 @@ int main(){
         break;
     } 
     
-    /*if (g[0] == 'x'){
-        break;
-    } */
+
 
     }
 
